@@ -1,1 +1,31 @@
+---
+layout: post
+title: Gylt
+img: lost-10.jpg
+---
+
+---------------------------
+No culpemos a los hijos de los problemas de los padres
+----------------------------
+Desarrollador: Tequila Works
+Distribuidora: Stadia
+Plataformas: Stadia (exclusiva temporal otras plataformas por anunciar)
+------------------------------
+
+Gylt, es un juego difícil del que hablar. Con la pesada losa de ser el único exclusivo de una plataforma con mucha mala prensa y con mucho odio y ganas de que fracase, le obliga no ya a solo se un buen juego por sus propios medios, sino compensar y prácticamente justificar la existencia de Stadia en si mismo. Y vaya por delante, no lo consigue ni mucho menos… Pero cuidado con que los árboles no nos dejan ver el bosque.
+
+El juego comienzo con Sally buscando a su desaparecida prima Emily en el pueblo Bethelwood, típico pueblo americano medio en medio del bosque donde aparentemente todos se conocen a todos que podría estar sacado de la obra del escritor de Maine. La pobre Sally muy preocupada va pegando carteles y unos abusones le incordian y la gritan lo que provoca que salga huyendo, tras una pequeña persecución intenta coger un teleférico para bajar nuevamente al pueblo y allí el taquillero le avisa que solo podrá montar con un ticket. Tras coger un extraño ticket de la máquina, monta en el aparato. Y comienza la pesadilla.
+
+Es difícil hablar sin revelar gran parte de sus virtudes, a nivel audiovisual el juego es precioso, envuelto en esa especie de pretensión de ser un Silent hill infantil, usando aquí el término no como destinado únicamente a niños sino a poder ser disfrutado por ellos. Algo así como películas como Gremlins o Cazafantasmas, disfrutables por todos sin sentirte estúpido. A lo que iba, muy bonito en lo artístico y muy limpio en lo técnico, creo que es el juego mas fino de la casa, no caracterizada por lanzamientos especialmente optimizados, (recordemos Rime) los 4k/60fps son prácticamente rocosos y los bugs o problemas técnico brillan por su ausencia. Consigue incomodar y hacerte revolverte del asiento sin necesidad de mostrar escenas truculentas o desagradables en si lo cual demuestra lo pulido que está en este aspecto. 
+
+La pesadilla de Emily, transformando sus miedos e inquietudes en monstruos y en un mundo decorado por sus peores pesadillas, permitiendo vernos tanto como el que recibía o contemplaba el bullying sin hacer nada, de hecho una de las mayores virtudes del juego en algunos momentos en ponernos un espejo delante y preguntarnos abiertamente si somos buenas personas o hemos actuado correctamente ante situaciones así¿Lo consigue? A ratos. La experiencia es demasiado suave en lo que a dificultad se refiere y da las sensación de que pretende ser más videojuego que narración.
+
+En lo jugable, es un buen videojuego pero no un gran videojuego. Me explico. Sally va recopilando diferentes ítems a lo largo de la trama en lo que nos permite distraer la atención de enemigos con latas, llamar la atención con linternas, destruir monstruos con “rayos de luz”, congelar enemigos, cegarlos con flashes, así como correr mucho por unos segundos y dar un empujón a estos para poder coger algo de distancia. No hace falta ser un genio para darse cuenta que el Alan Wake de Remedy es un gran referente aquí. Lo que perse no es malo pero casi da la sensación de que veremos al escritor salir en algún momento por alguna puerta preguntando cómo se llega a Bright falls. Los elementos funcionan pero no son demasiado originales.
+
+El juego al menos inicialmente pretende ser más una pieza de sigilo y puzzles, de hecho algunos de sus mejores momentos están en ese lugar, cuando totalmente indefensos debemos distraer a los enemigos y atraerlos donde no estamos para poder seguir explorando el lado oscuro de la mente de nuestra prima. Pero conforme avanzamos el juego no para de darnos recursos y elementos con los que “armarnos”, nunca somos Rambo precisamente pero entre que la dificultad es relativamente baja y la cantidad de recursos, algun enemigo instakill o un pequeño aumento de dificultad le habría sentado bien. Entiendo que quieren que el juego llegue a todo el mundo y que tanto un niño como un “hardcoreprogamer” lo puedan disfrutar, pero al menos a mi me da la sensación de que la experiencia se ve algo lastrada por ello.
+
+Si a lo anteriormente mencionado sumamos algunos puzzles sencillos, una duración de unas 4-5 horas y una suerte de coleccionables de los que depende parte de la conclusión del juego, tenemos Gylt. Un notable intento de hablar de cosas serias, de hacernos sentir incómodos sin necesidad de que un zombie arranque el cuello a un policía. Es posible que ser tan “videojuego” en estos tiempos de tanta narrativa, le reste peso al mensaje para algunas personas, en mi caso no fue así… del todo. El gran momento pasa un poco de largo y no se para demasiado a pensar en que ha pasado. No se puede hablar mucho más sin reventar las sorpresas que guarda este juego, que basandonos en sus trailers y demas, son muchas. Personalmente me ha gustado, creo que es un intento relativamente valiente de hacer algo diferente. No lo calificaria de fallido pero tampoco de gol por la escuadra. 
+
+Lo mejor que se puede decir del juego es que por lo menos debéis de probarlo. Merece la pena.
+
 
