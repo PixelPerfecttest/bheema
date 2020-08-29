@@ -2,16 +2,20 @@
 layout: post
 title: Gylt
 img: lost-10.jpg
----
+---------------------------
 GYLT
 ---------------------------
+
 No culpemos a los hijos de los problemas de los padres
+
 ----------------------------
+
 Desarrollador: Tequila Works
 
 Distribuidora: Stadia
 
-Plataformas: Stadia (exclusiva temporal otras plataformas por anunciar)
+Plataformas: Stadia 
+
 ------------------------------
 
 Gylt, es un juego difícil del que hablar. Con la pesada losa de ser el único exclusivo de una plataforma con mucha mala prensa y con mucho odio y ganas de que fracase, le obliga no ya a solo se un buen juego por sus propios medios, sino compensar y prácticamente justificar la existencia de Stadia en si mismo. Y vaya por delante, no lo consigue ni mucho menos… Pero cuidado con que los árboles no nos dejan ver el bosque.
