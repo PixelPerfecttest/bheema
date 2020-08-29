@@ -3,12 +3,14 @@ layout: post
 title: Gylt
 img: lost-10.jpg
 ---
-
+GYLT
 ---------------------------
 No culpemos a los hijos de los problemas de los padres
 ----------------------------
 Desarrollador: Tequila Works
+
 Distribuidora: Stadia
+
 Plataformas: Stadia (exclusiva temporal otras plataformas por anunciar)
 ------------------------------
 
